@@ -25,5 +25,5 @@ Este é um pequeno projeto de terminal feito com **Node.js** que converte valore
 1. Clone o repositório ou baixe os arquivos:
 
 ```bash
-git clone https://github.com/seu-usuario/conversor-moeda-terminal.git
+git clone https://github.com/FelipeFelema/conversor-moeda-terminal.git
 cd conversor-moeda-terminal
