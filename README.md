@@ -78,4 +78,4 @@ Veja a [lista completa de moedas aqui](https://www.frankfurter.app/docs/#availab
 
 ## 🧑‍💻 Autor
 
-Feito por Felipe Felema — em aprendizado constante rumo à carreira back-end! 🚀
+Feito por Felipe Felema
